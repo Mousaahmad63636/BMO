@@ -5,9 +5,6 @@ import router from './router'
 import PrimeVue from 'primevue/config'
 import './assets/css/main.css'
 import './assets/css/prime.css'
-
-// PrimeVue components
-import PrimeVue from 'primevue/config'
 import 'primevue/resources/themes/lara-light-blue/theme.css'
 import 'primevue/resources/primevue.min.css'
 import 'primeicons/primeicons.css'
