@@ -1,0 +1,29 @@
+/* You can add essential Prime styles manually here */
+/* This is a fallback if the imports don't work */
+
+/* Basic icon styles */
+.pi {
+    font-family: 'PrimeIcons';
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    display: inline-block;
+  }
+  
+  .pi-spin {
+    animation: fa-spin 2s infinite linear;
+  }
+  
+  @keyframes fa-spin {
+    0% {
+      transform: rotate(0deg);
+    }
+    100% {
+      transform: rotate(359deg);
+    }
+  }
+  
+  /* Add other necessary PrimeVue styling here */
